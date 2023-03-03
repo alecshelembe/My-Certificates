@@ -16,6 +16,6 @@ Here are other certificates
 [Programming Fundementals.pdf](https://github.com/alecshelembe/My-Certificates/files/10881222/Programming.Fundementals.pdf)
 
 
-[Dev Ops.pdf](https://github.com/alecshelembe/AWS-Certificates/files/9986967/export.pdf)
+[Dev Ops intern by Deviare.pdf](https://github.com/alecshelembe/AWS-Certificates/files/9986967/export.pdf)
 
 
